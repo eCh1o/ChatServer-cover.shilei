@@ -7,5 +7,7 @@ rm -rf*
 cmake ..   
 make   
 
+或者执行autobuild.sh
+
 需要安装    
 muduo,nginx,redis,cmake,mysql
